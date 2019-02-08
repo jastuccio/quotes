@@ -1,3 +1,8 @@
+---
+title: test
+date: "2015-05-01T22:12:03.284Z"
+---
+
 A giant ship engine failed. The ship’s owners tried one expert after another, but none of them could figure out how to fix the engine.
 
 Then they brought in an old man who had been fixing ships since he was young. He carried a large bag of tools with him, and when he arrived, he immediately went to work. He inspected the engine very carefully, top to bottom.
